@@ -32,7 +32,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @Dark_World7_4
 
-👥 **Support Group:** [GPL](https://t.me/Dark_World7_4)
+👥 **Support Group:** [Ranger](https://t.me/Dark_World7_4)
 
 📢 **Updates Channel:** [Rangermovies](https://t.me/Rangermovies)
 """
