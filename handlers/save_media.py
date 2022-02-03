@@ -53,8 +53,8 @@ async def SaveBatchMediaInChannel(bot: Client, editable: Message, message_ids: l
             parse_mode="Markdown",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Join Channel", url="https://t.me/ithunammacinema"),
-                  InlineKeyboardButton("Support", url="https://t.me/gpl_kavinbot")]]
+                 [InlineKeyboardButton("Join Channel", url="https://t.me/Rangermovies"),
+                  InlineKeyboardButton("Support", url="https://t.me/Dark_World7_4")]]
             ),
             disable_web_page_preview=True
         )
@@ -93,8 +93,8 @@ async def SaveMediaInChannel(bot: Client, editable: Message, message: Message):
             parse_mode="Markdown",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Join Channel", url="https://t.me/ithunammacinema"),
-                  InlineKeyboardButton("Support", url="https://t.me/gpl_kavinbot")]]
+                 [InlineKeyboardButton("Join Channel", url="https://t.me/Rangermovies"),
+                  InlineKeyboardButton("Support", url="https://t.me/Dark_World7_4")]]
             ),
             disable_web_page_preview=True
         )
